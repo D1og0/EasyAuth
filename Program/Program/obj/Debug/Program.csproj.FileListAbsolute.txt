@@ -1,0 +1,11 @@
+C:\Users\Diogo\Desktop\Projects\Login\Program\Program\bin\Debug\Program.exe.config
+C:\Users\Diogo\Desktop\Projects\Login\Program\Program\bin\Debug\Program.exe
+C:\Users\Diogo\Desktop\Projects\Login\Program\Program\bin\Debug\Program.pdb
+C:\Users\Diogo\Desktop\Projects\Login\Program\Program\obj\Debug\Program.csprojAssemblyReference.cache
+C:\Users\Diogo\Desktop\Projects\Login\Program\Program\obj\Debug\Program.csproj.CoreCompileInputs.cache
+C:\Users\Diogo\Desktop\Projects\Login\Program\Program\obj\Debug\Program.exe
+C:\Users\Diogo\Desktop\Projects\Login\Program\Program\obj\Debug\Program.pdb
+C:\Users\Diogo\Desktop\Projects\Login\Program\Program\bin\Debug\Json.Net.dll
+C:\Users\Diogo\Desktop\Projects\Login\Program\Program\bin\Debug\Newtonsoft.Json.dll
+C:\Users\Diogo\Desktop\Projects\Login\Program\Program\bin\Debug\Newtonsoft.Json.xml
+C:\Users\Diogo\Desktop\Projects\Login\Program\Program\obj\Debug\Program.csproj.CopyComplete
