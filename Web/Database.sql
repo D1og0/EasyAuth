@@ -39,7 +39,7 @@ CREATE TABLE `users` (
 --
 
 INSERT INTO `users` (`id`, `username`, `password`, `created`) VALUES
-(1, 'adarsh', 'MTIzNDU=', '2019-04-09 06:17:14');
+(1, 'd1og0', 'MTIzNDU=', '2019-04-09 06:17:14');
 
 --
 -- Indexes for dumped tables
