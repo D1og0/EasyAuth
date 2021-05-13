@@ -6,5 +6,5 @@
 
 # Donate
 
-- BTC:
+- BTC: 3AAJCqbX7WDgSGoCAoUa22mxQgPJriDyZj
 - Paypal: Paypal.Me/DiogoGL
